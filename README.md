@@ -1,3 +1,3 @@
 # dkkloimwieder
 
-Hello from Ohio! Please look around and do not hesitate to contact me if you have any questions. Have fun.
+Hello from Ohio, USA. I am into some serious learning and development, mostly with the help of javascript and python these days. Pull requests welcome everywhere. 
